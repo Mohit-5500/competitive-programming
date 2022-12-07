@@ -1,0 +1,6 @@
+final=[]
+input_list=[[1,5],[7,3],[3,5]]
+for i in range(len(input_list)):
+    ans=sum(input_list[i])
+    final.append(ans)
+print(max(final))
