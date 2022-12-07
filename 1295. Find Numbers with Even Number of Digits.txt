@@ -1,0 +1,19 @@
+
+ip=[555,901,482,1771]
+ip_string=map(str,ip)
+ip_string_length=map(len,ip_string)
+length=list(ip_string_length)
+print(length)
+count=0
+for i in range(len(length)):
+    if length[i]%2==0:
+        count+=1
+print(count)
+
+
+
+
+
+
+
+
