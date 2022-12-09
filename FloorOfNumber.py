@@ -1,3 +1,4 @@
+#Floor of the array: Greatest number smaller or equal to target. 
 def binarysearch(arr,target):
     start=0
     end=len(arr)-1
