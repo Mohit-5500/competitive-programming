@@ -1,4 +1,4 @@
-
+#Ceiling of the array: Smallest element in the array greater than of equal to the target
 
 ceiling of a number
 def binarysearch(arr,target):
